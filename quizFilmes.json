@@ -1,0 +1,142 @@
+[
+   {
+      "pergunta":"Qual filme ganhou o Oscar de Melhor Filme em 2023?",
+      "resposta":"Tudo em Todo Lugar ao Mesmo Tempo",
+      "Alternativa 2":"Top Gun: Maverick",
+      "Alternativa 3":"Os Fabelmans",
+      "Alternativa 4":"Avatar: O Caminho da Água"
+   },
+   {
+      "pergunta":"Quem dirigiu o filme \"O Poderoso Chefão\"?",
+      "resposta":"Francis Ford Coppola",
+      "Alternativa 2":"Martin Scorsese",
+      "Alternativa 3":"Quentin Tarantino",
+      "Alternativa 4":"Steven Spielberg"
+   },
+   {
+      "pergunta":"Qual ator interpretou Jack Dawson no filme \"Titanic\"?",
+      "resposta":"Leonardo DiCaprio",
+      "Alternativa 2":"Brad Pitt",
+      "Alternativa 3":"Tom Hanks",
+      "Alternativa 4":"Johnny Depp"
+   },
+   {
+      "pergunta":"Em que ano foi lançado o primeiro filme da saga \"Star Wars\"?",
+      "resposta":"1977",
+      "Alternativa 2":"1980",
+      "Alternativa 3":"1983",
+      "Alternativa 4":"1975"
+   },
+   {
+      "pergunta":"Qual atriz interpretou Hermione Granger na saga \"Harry Potter\"?",
+      "resposta":"Emma Watson",
+      "Alternativa 2":"Daniel Radcliffe",
+      "Alternativa 3":"Rupert Grint",
+      "Alternativa 4":"Maggie Smith"
+   },
+   {
+      "pergunta":"Qual filme tem a frase icônica: \"Minha mãe me disse para nunca olhar diretamente para o sol. Mas ela não disse nada sobre a lua.\"?",
+      "resposta":"ET - O Extraterrestre",
+      "Alternativa 2":"De Volta Para o Futuro",
+      "Alternativa 3":"Indiana Jones",
+      "Alternativa 4":"Jurassic Park"
+   },
+   {
+      "pergunta":"Qual ator interpreta o personagem Tony Stark no Universo Cinematográfico Marvel?",
+      "resposta":"Robert Downey Jr.",
+      "Alternativa 2":"Chris Evans",
+      "Alternativa 3":"Chris Hemsworth",
+      "Alternativa 4":"Mark Ruffalo"
+   },
+   {
+      "pergunta":"Quem dirigiu o filme \"Parasita\"?",
+      "resposta":"Bong Joon-ho",
+      "Alternativa 2":"Park Chan-wook",
+      "Alternativa 3":"Kim Jee-woon",
+      "Alternativa 4":"Lee Chang-dong"
+   },
+   {
+      "pergunta":"Qual filme de animação da Disney conta a história da princesa Ariel?",
+      "resposta":"A Pequena Sereia",
+      "Alternativa 2":"A Bela e a Fera",
+      "Alternativa 3":"Aladdin",
+      "Alternativa 4":"O Rei Leão"
+   },
+   {
+      "pergunta":"Quem interpretou o personagem Coringa no filme \"Batman: O Cavaleiro das Trevas\"?",
+      "resposta":"Heath Ledger",
+      "Alternativa 2":"Joaquin Phoenix",
+      "Alternativa 3":"Jared Leto",
+      "Alternativa 4":"Jack Nicholson"
+   },
+   {
+      "pergunta":"Qual filme conta a história de um grupo de brinquedos que ganham vida?",
+      "resposta":"Toy Story",
+      "Alternativa 2":"Monstros S.A.",
+      "Alternativa 3":"Procurando Nemo",
+      "Alternativa 4":"Carros"
+   },
+   {
+      "pergunta":"Qual filme tem a famosa frase: \"A vida é como uma caixa de chocolates, você nunca sabe o que vai tirar\"?",
+      "resposta":"Forrest Gump",
+      "Alternativa 2":"O Poderoso Chefão",
+      "Alternativa 3":"Um Sonho de Liberdade",
+      "Alternativa 4":"Pulp Fiction"
+   },
+   {
+      "pergunta":"Qual a trilogia cinematográfica dirigida por Peter Jackson que se passa na Terra-Média?",
+      "resposta":"O Senhor dos Anéis",
+      "Alternativa 2":"O Hobbit",
+      "Alternativa 3":"Harry Potter",
+      "Alternativa 4":"Jogos Vorazes"
+   },
+   {
+      "pergunta":"Quem interpretou Hannibal Lecter no filme \"O Silêncio dos Inocentes\"?",
+      "resposta":"Anthony Hopkins",
+      "Alternativa 2":"Brad Pitt",
+      "Alternativa 3":"Morgan Freeman",
+      "Alternativa 4":"Robert De Niro"
+   },
+   {
+      "pergunta":"Qual filme de Quentin Tarantino tem a cena icônica do \"twist\" com a agulha e a adrenalina?",
+      "resposta":"Pulp Fiction",
+      "Alternativa 2":"Kill Bill",
+      "Alternativa 3":"Cães de Aluguel",
+      "Alternativa 4":"Bastardos Inglórios"
+   },
+   {
+      "pergunta":"Qual filme conta a história de um grupo de amigos que viajam para Las Vegas para uma despedida de solteiro?",
+      "resposta":"Se Beber, Não Case!",
+      "Alternativa 2":"Missão Madrinha de Casamento",
+      "Alternativa 3":"21 - Blackjack",
+      "Alternativa 4":"A Ressaca"
+   },
+   {
+      "pergunta":"Quem dirigiu o filme \"O Labirinto do Fauno\"?",
+      "resposta":"Guillermo del Toro",
+      "Alternativa 2":"Pedro Almodóvar",
+      "Alternativa 3":"Alejandro Amenábar",
+      "Alternativa 4":"Alfonso Cuarón"
+   },
+   {
+      "pergunta":"Qual filme tem a famosa cena do personagem principal gritando \"Adrian!\" na chuva?",
+      "resposta":"Rocky",
+      "Alternativa 2":"Rambo",
+      "Alternativa 3":"O Poderoso Chefão",
+      "Alternativa 4":"Scarface"
+   },
+   {
+      "pergunta":"Qual a nacionalidade do diretor Hayao Miyazaki, conhecido por filmes como \"A Viagem de Chihiro\" e \"Meu Amigo Totoro\"?",
+      "resposta":"Japonês",
+      "Alternativa 2":"Chinês",
+      "Alternativa 3":"Coreano",
+      "Alternativa 4":"Americano"
+   },
+   {
+      "pergunta":"Qual filme conta a história de um grupo de crianças que se aventuram em busca de um tesouro pirata?",
+      "resposta":"Os Goonies",
+      "Alternativa 2":"Conta Comigo",
+      "Alternativa 3":"Clube dos Cinco",
+      "Alternativa 4":"Curtindo a Vida Adoidado"
+   }
+]
